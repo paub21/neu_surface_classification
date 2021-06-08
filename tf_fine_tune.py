@@ -1,4 +1,4 @@
-# example of NEU surface classification (without object detection)
+# add some comments
 import pickle
 import pandas as pd
 import numpy as np
